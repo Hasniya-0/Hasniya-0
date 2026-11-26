@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hasniya-0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+Software+Engineer+in+Progress;Full-Stack+Development+Enthusiast;DevOps+%26+Cloud+Explorer;Building+Real-World+Solutions;Always+Learning+%26+Building" alt="Typing SVG"/>
-</p>---
+</p>
 
 👩‍💻 About Me
 
@@ -15,7 +15,6 @@
 - 🚀 I enjoy learning new technologies and solving real-world problems through software.
 - 🎯 My goal is to become a skilled Software Engineer and build impactful technology solutions.
 
----
 
 🤝 Connect With Me
 
@@ -26,7 +25,7 @@
 <a href="https://github.com/Hasniya-0" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-</p>---
+</p>
 
 🛠️ Languages and Tools
 
@@ -76,7 +75,7 @@ Programming Languages
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45"/></a>
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45"/></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45"/></a>
-</p>---
+</p>
 
 🚀 Featured Projects
 
@@ -86,7 +85,11 @@ A web-based inventory management application designed to manage products, catego
 
 Technologies: React, Vite, Supabase
 
-🔗 "GitHub Repository" (https://github.com/Hasniya-0/stockflow-inventory) | "Live Demo" (https://stockflow-inventory-bay.vercel.app/)
+🔗 "GitHub Repository" (https://github.com/Hasniya-0/stockflow-inventory) 
+
+"Live Demo" 
+(https://stockflow-inventory-bay.vercel.app/)
+
 
 2. Todo MERN – Task Management Application
 
@@ -94,7 +97,10 @@ A full-stack task management application built using the MERN technology stack.
 
 Technologies: MongoDB, Express.js, React.js, Node.js
 
-🔗 "GitHub Repository" (https://github.com/Hasniya-0/todo-mern) | "Live Demo" (https://todo-mernapp.vercel.app/)
+🔗 "GitHub Repository" (https://github.com/Hasniya-0/todo-mern) 
+
+"Live Demo" (https://todo-mernapp.vercel.app/)
+
 
 3. DevFlow – CI/CD Automation
 
@@ -104,7 +110,7 @@ Technologies: Node.js, Docker, GitHub Actions
 
 🔗 "GitHub Repository" (https://github.com/Hasniya-0/devflow-ci-cd)
 
----
+
 
 📊 GitHub Statistics
 
@@ -112,13 +118,13 @@ Technologies: Node.js, Docker, GitHub Actions
 <img src="https://github-readme-stats.vercel.app/api?username=Hasniya-0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 </p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasniya-0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>---
+</p>
 
 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Hasniya-0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>---
+</p>
 
 🎯 Current Focus
 
@@ -130,7 +136,7 @@ Technologies: Node.js, Docker, GitHub Actions
 - ⚙️ Learning CI/CD and DevOps automation.
 - 🧠 Developing problem-solving and system design skills.
 
----
+
 
 <h3 align="center">💡 "Learn continuously. Build passionately. Improve every day."</h3><h3 align="center">Thanks for visiting my GitHub profile! 👋</h3><p align="center">
   ⭐ Feel free to explore my repositories and connect with me!
